@@ -1,0 +1,15 @@
+[submodule "tidbits-c"]
+	path = tidbits-c
+	url = https://github.com/Duccy1474/tidbits-c
+[submodule "tidbits-rust"]
+	path = tidbits-rust
+	url = https://github.com/Duccy1474/tidbits-rust
+[submodule "tidbits-python"]
+	path = tidbits-python
+	url = https://github.com/Duccy1474/tidbits-python
+[submodule "tidbits-vim"]
+	path = tidbits-vim
+	url = https://github.com/Duccy1474/tidbits-vim
+[submodule "tidbits-nim"]
+	path = tidbits-nim
+	url = https://github.com/Duccy1474/tidbits-nim
